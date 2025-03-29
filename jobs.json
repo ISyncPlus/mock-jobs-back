@@ -84,5 +84,8 @@
         "contactPhone": "555-555-5555"
       }
     }
-  ]
+  ],
+  "posts": [],
+  "comments": [],
+  "profile": {}
 }
